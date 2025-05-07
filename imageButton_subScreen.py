@@ -1,3 +1,7 @@
+"""
+tạm chưa có cách thu gọn chương trình này
+"""
+
 import os.path
 
 def getroom(stt):
