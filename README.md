@@ -4,5 +4,3 @@
 # Dùng imagebutton
 # Dùng label
 # chuyển file và kiểm thử
-
-tải tài nguyên và quản lý tài nguyên tựa game tôi yêu
